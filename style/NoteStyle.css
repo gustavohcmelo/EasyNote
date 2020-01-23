@@ -52,11 +52,13 @@ li div {
 
 li p {
     width: 98%;
+    border-bottom: 1px solid #cccccc;
 }
 
 li div img {
     width: 20px;
     height: 20px;
+    opacity: 0.7;
 }
 
 nav{
